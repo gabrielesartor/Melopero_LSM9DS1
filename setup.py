@@ -6,7 +6,7 @@
 import setuptools
 
 setuptools.setup(
-    name="melopero_lsm9ds1",
+    name="melopero_lsm9ds1_v2",
     version="0.1.0",
     description="A module to easily access Melopero's LSM9DS1 sensor's features",
     url="https://github.com/melopero/Melopero_LSM9DS1",
