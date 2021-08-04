@@ -49,7 +49,7 @@ class LSM9DS1():
 
     TEMPERATURE_REG = 0x15
     
-    GYRO_X_REG = 0x18
+    GYRO_X_REG = 0x22
     GYRO_Y_REG = 0x1A
     GYRO_Z_REG = 0x1C
     
